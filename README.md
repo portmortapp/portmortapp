@@ -61,7 +61,7 @@ Ready to experience a smarter way to manage access?
 We are constantly improving Portmort to match your evolving business needs. Have suggestions, ideas, or feedback?
 
 - 🌐 **Website**: *Coming Soon*
-- 💬 **Get in Touch**: [contact@portmort.app](mailto:contact@portmort.app)
+
 
 ---
 
